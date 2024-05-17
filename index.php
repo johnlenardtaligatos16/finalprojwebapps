@@ -59,7 +59,7 @@
       <div class="txt-p">
       <p >_________________________________________________________________</p>
       <p>WANT TO BOOK AN APPOINTMENT?</p>
-      <a href="#"><button class="btn btn-danger">SIGN UP NOW</button></a>
+      <button class="btn btn-danger"><a href="#">SIGN UP NOW</a></button> 
       </div>
      
     
